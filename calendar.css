@@ -1,0 +1,36 @@
+.azul{
+    color: blue;
+}
+.verde{
+    color: green;
+}
+.rosa{
+    color: palevioletred;
+}
+ 
+.roxo{
+    color: blueviolet;
+}
+.cores{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+ 
+table.calendar {
+    border-collapse: collapse;
+    width: 10%;
+    margin: 0 auto;
+  }
+ 
+  table.calendar th {
+    background-color: #c9fdff;
+    padding: 50px;
+    text-align: center;
+  }
+ 
+  table.calendar td {
+    padding: 25px;
+    border: 3px solid #c2c2c2;
+    text-align: center;
+  }
+ 
