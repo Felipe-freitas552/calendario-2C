@@ -24,4 +24,4 @@ Além dessa regra, tem a regra dos 3, onde cada veículo escolhido deve apresent
 * [<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
  
 ## Autores
-* ``Aluno 2ºC:``Rafael Souza Mastellini
+* ``Aluno 2ºC:``felipe
